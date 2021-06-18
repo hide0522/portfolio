@@ -308,6 +308,10 @@ section {
   border-bottom: 1px solid black;
 }
 
+section p {
+  padding-bottom: 2%;
+}
+
 #works {
   background-color: gray;
   color: white;
@@ -398,8 +402,12 @@ textarea {
   margin-top: 5%;
 }
 
+.contact-item {
+  width: 60%;
+}
+
 .sns {
-  width: 40%;
+  width: 20%;
   margin: 0 auto;
   text-align: center;
 }
@@ -442,7 +450,7 @@ footer {
   .sp-menu {
     display: block;
     top: -2%;
-    right: 5%;
+    right: 8%;
   }
 
   #mainvisual {
@@ -478,6 +486,11 @@ footer {
     text-align: center;
   }
 
+  .contact-item {
+    width: 80%;
+    display: flex;
+  }
+
   .form, #input, textarea {
     width: 90%;
   }
@@ -497,7 +510,7 @@ footer {
 
   .sp-menu {
     top: -15%;
-    right: 3%;
+    right: 8%;
   }
 
   .sp-menu #open {
