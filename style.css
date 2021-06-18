@@ -246,7 +246,7 @@ nav li a {
 .overlay #close {
   position: absolute;
   top: 16px;
-  right: 16px;
+  right: 50px;
   font-size: 1.5em;
   cursor: pointer;
 }
@@ -510,7 +510,7 @@ footer {
 
   .sp-menu {
     top: -15%;
-    right: 8%;
+    right: 10%;
   }
 
   .sp-menu #open {
